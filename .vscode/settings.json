@@ -1,0 +1,8 @@
+{
+  "symbols.folders.associations": {
+    "core": "rules",
+    "adapters": "pipe",
+    "external": "tools",
+    "user": "admin"
+  }
+}
